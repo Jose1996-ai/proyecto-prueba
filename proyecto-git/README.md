@@ -1,1 +1,1 @@
-# Mi primer repositorio con Git
+# Proyecto de prueba con Git
